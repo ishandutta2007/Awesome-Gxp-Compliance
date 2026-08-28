@@ -14,41 +14,25 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
 
 ## Table of Contents
-- [SaaS/Hosted Platforms](#saas-products)
+- [SaaS/Hosted Platforms](#saashosted-platforms)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
 
 ## SaaS/Hosted Platforms
-- **[Scilife](https://www.scilife.io/)**  
-  Modern eQMS platform aimed at life sciences companies needing document control, quality processes, and compliance workflows in a cloud-native package.
 
-- **[Qualio](https://www.qualio.com/)**  
-  Cloud-native eQMS built for early-stage and growth life sciences (medical devices, biotech, pharma) — document control, CAPA, training, design controls, and risk management.
-
-- **[MasterControl](https://www.mastercontrol.com/)**  
-  Established enterprise quality and compliance suite widely used in pharmaceuticals, medical devices, and other FDA-regulated industries — documents, change/CAPA, training, audits, and validation support.
-
-- **[ComplianceQuest](https://www.compliancequest.com/)**  
-  Quality and compliance platform (often Salesforce-based) covering QMS, EQMS, and related GxP processes including validation management.
-
-- **[Dot Compliance](https://www.dotcompliance.com/)**  
-  AI-oriented eQMS built natively on Salesforce, marketed as ready-to-deploy for GxP processes with pre-built workflows and validation packages.
-
-- **[Greenlight Guru](https://www.greenlight.guru/)**  
-  Medical-device-centric QMS platform aligned with FDA 21 CFR Part 820, ISO 13485, and EU MDR — design controls, risk, and quality processes tailored to device makers.
-
-- **[Sparta TrackWise (PTC)](https://www.ptc.com/)**  
-  Enterprise QMS long used in regulated manufacturing for quality events, CAPA, change control, and compliance tracking.
-
-- **[ETQ Reliance](https://www.etq.com/)**  
-  Quality management platform used across regulated manufacturing for document control, CAPA, audits, and compliance processes.
-
-- **[ValGenesis](https://www.valgenesis.com/)**  
-  Electronic validation lifecycle management (iVLMS) focused on CSV/CSA, validation protocols, and GxP system compliance evidence.
-
-- **[Kneat](https://kneat.com/)**  
-  Paperless validation and GxP compliance platform for creating, executing, and managing validation documentation in regulated environments.
+| Platform | Core Focus / Description | Pricing (Starting Tier) | Free Tier / Free Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Scilife](https://www.scilife.io/)** | Cloud-native eQMS for life sciences providing document control, CAPA, change control, training, and audit management. | Starts at **$1,000/month** (~$9,000–$12,000/year base for Essential tier). | **14-day free trial** with access to core workspace and up to 5 user invites; no permanent free plan. |
+| **[Qualio](https://www.qualio.com/)** | Cloud eQMS built for early-stage and growth life sciences (biotech, pharma, medical devices) covering CAPA, documents, and risk. | Starts at **$1,000/month** ($12,000/year billed annually for Growth tier). | **No free trial for core eQMS** (companion QualiHQ tier offers free starter for up to 5 users/basic document sharing; guided demo for main eQMS). |
+| **[MasterControl](https://www.mastercontrol.com/)** | Enterprise QMS and Manufacturing Execution System (MES) suite for FDA-regulated life sciences and quality processes. | Starts at **$2,083/month** (~$25,000/year base tier for named-user packages). | **No free trial or free forever plan**; evaluation provided strictly via scheduled vendor demo and tailored sandbox PoC. |
+| **[ComplianceQuest](https://www.compliancequest.com/)** | Salesforce-native enterprise QMS, EHS, and product lifecycle compliance platform with validation packs. | Starts at **$30/user/month** (~$10,000–$15,000/year minimum commitment). | **30-day sandbox trial** available on Salesforce AppExchange for up to 5 test users; no permanent free plan. |
+| **[Dot Compliance](https://www.dotcompliance.com/)** | AI-driven eQMS built natively on Salesforce with pre-configured workflows and pre-packaged GxP validation. | Starts at **$1,667/month** (~$20,000/year base tier for standard life sciences starter package). | **14-day guided validation pilot** upon qualification; no open self-service free trial or free tier. |
+| **[Greenlight Guru](https://www.greenlight.guru/)** | Medical-device-specific QMS aligned with FDA 21 CFR Part 820, ISO 13485, and EU MDR design controls. | Starts at **$2,083/month** (~$25,000/year base package for early-stage MedTech startups). | **No self-serve free trial or free tier**; evaluation available via interactive product tour and guided prototype evaluation sandbox. |
+| **[Sparta TrackWise (PTC)](https://www.ptc.com/)** | Enterprise QMS and quality event management platform for regulated pharmaceutical and medical manufacturing. | Starts at **$200/user/month** (~$25,000–$50,000/year minimum contract threshold for TrackWise Digital). | **No self-serve free trial or free tier**; evaluation strictly via custom architectural review and guided proof-of-concept. |
+| **[ETQ Reliance](https://www.etq.com/)** | Flexible, modular enterprise quality and compliance platform supporting CAPA, audits, and document control. | Starts at **$2,083/month** (~$25,000/year entry tier based on concurrent user [CCU] licensing). | **30-day proof-of-value (PoV) sandbox** for qualified buyers upon vendor consultation; no permanent free plan. |
+| **[ValGenesis](https://www.valgenesis.com/)** | Electronic validation lifecycle management (iVLMS) system for CSV/CSA protocols and paperless validation evidence. | Starts at **$2,500/month** (~$30,000/year base subscription for entry validation lifecycle modules). | **No open self-service free trial or free tier**; evaluation via guided technical demo and scoped pilot validation workshops. |
+| **[Kneat](https://kneat.com/)** | Paperless validation and GxP compliance platform for authoring, approving, and executing validation documentation. | Starts at **$2,900/month** (~$35,000/year base tier depending on user license count and deployment scope). | **No free forever plan or public self-serve trial**; evaluation provided through scheduled live interactive demo and tailored sandbox walkthrough. |
 
 ## Open-Source GitHub Projects
 - **[Open QMS](https://github.com/IridiumSoftware/open-qms)**  
